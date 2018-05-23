@@ -10,7 +10,8 @@ p { font - weight: 200;
     font - size: 13 px; }
 
 .name { font - family: Roboto + Mono;
-    font - size: 20 px;
+    font - size: 50 px;
+    text - aling: center;
     text - transform: none;
     font - weight: 400;
     padding: 50 px;
